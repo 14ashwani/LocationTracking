@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Track Me App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="track">TRACK ME</string>
+    <string name="title_activity_time_duration">TimeDuration</string>
+    <string name="title_activity_history">History</string>
+</resources>
