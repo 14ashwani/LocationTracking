@@ -29,7 +29,7 @@
             android:name=".bgservices.LocationIntentService"
             android:exported="false" />
         <meta-data
-            android:name="com.google.android.geo.API_KEY"
+            android:name="com.google.android.maps.v2.API_KEY"
             android:value="AIzaSyAl6e6Vm2g0qK_c3CPWDNn4cjl_ZbL9L1s"/>
 
     </application>
